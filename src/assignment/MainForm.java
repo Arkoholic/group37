@@ -6,7 +6,7 @@ package assignment;
 
 /**
  *
- * @author PKay
+ * @author PKay and others
  */
 public class MainForm extends javax.swing.JFrame {
 
